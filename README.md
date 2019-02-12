@@ -1,14 +1,10 @@
 [![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/hosting-example)
 
-# Hosting
+# InterCorbin
 
-An example of [WeDeploy Hosting](https://wedeploy.com/docs/hosting/).
+_(An example of [WeDeploy Hosting](https://wedeploy.com/docs/hosting/).)_
 
-## Instructions
-
-1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
-2. Clone this repository.
-3. Open the project with your command line and run `we deploy -p yourproject`.
+A quick little site for testing your Intercom chat app.
 
 ## License
 
